@@ -82,44 +82,7 @@ A modern, full-featured Customer Relationship Management system built with Next.
 - **Export:** XLSX, PapaParse
 - **Hosting:** Vercel
 
-## 🚀 Getting Started
 
-### Prerequisites
-- Node.js 18+
-- MySQL database
-
-### Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/leadflow-crm.git
-
-# Install dependencies
-npm install
-
-# Configure database
-# Edit lib/db.js with your MySQL credentials
-
-# Run development server
-npm run dev
-```
-
-### Environment Variables (for production)
-
-```env
-DB_HOST=your_mysql_host
-DB_USER=your_mysql_user
-DB_PASSWORD=your_mysql_password
-DB_NAME=your_database_name
-```
-
-### Database Setup
-1. Open the app in browser
-2. Go to Login page
-3. Click "Setup Database" button
-4. Login with default admin: `admin` / `admin123`
-
-## 📱 Screenshots
 
 ### User Dashboard
 - Clean, modern UI with gradient header
