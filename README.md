@@ -82,6 +82,17 @@ A modern, full-featured Customer Relationship Management system built with Next.
 - **Export:** XLSX, PapaParse
 - **Hosting:** Vercel
 
+- Reminder Panel - Stats er niche dekhabe (collapsible)
+🔴 Overdue - Red section - past follow-up dates (missed)
+🟡 Today - Yellow section - today's follow-ups
+🟢 Upcoming - Green section - next 7 days follow-ups
+Click to View - Any item click korle customer details modal open hobe
+Table Highlighting - Follow-up column e:
+⚠️ Red background for overdue
+📅 Yellow background for today
+Badge Counts - Header e overdue ar today count dekhabe
+Hide/Show Toggle - Panel collapse korte parbe
+
 
 
 ### User Dashboard
