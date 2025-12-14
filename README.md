@@ -82,7 +82,7 @@ A modern, full-featured Customer Relationship Management system built with Next.
 - **Export:** XLSX, PapaParse
 - **Hosting:** Vercel
 
-- Reminder Panel - Stats er niche dekhabe (collapsible)
+Reminder Panel - Stats er niche dekhabe (collapsible)
 🔴 Overdue - Red section - past follow-up dates (missed)
 🟡 Today - Yellow section - today's follow-ups
 🟢 Upcoming - Green section - next 7 days follow-ups
@@ -92,6 +92,27 @@ Table Highlighting - Follow-up column e:
 📅 Yellow background for today
 Badge Counts - Header e overdue ar today count dekhabe
 Hide/Show Toggle - Panel collapse korte parbe
+
+
+View Modal e Call History section - Customer er sob call logs dekhabe with:
+
+Call type icon (📤 Outgoing, 📥 Incoming, 📵 Missed)
+Outcome badge (color coded - green for Connected, yellow for No Answer, red for others)
+Duration, caller info, notes
+Next follow-up date
+"+ Log Call" button - View Modal e, only customer owner dekhtey parbe
+
+Call Log Modal - Form fields:
+
+Call Type (Outgoing/Incoming/Missed)
+Outcome (Connected/No Answer/Busy/Wrong Number/Voicemail)
+Duration (minutes)
+Notes (textarea)
+Next Follow-up Date
+
+Customer Timeline - All activities in timeline view
+
+
 
 
 
