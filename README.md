@@ -130,9 +130,9 @@ Customer Timeline - All activities in timeline view
 ## 👤 Default Credentials
 
 | Role | User ID | Password |
-|------|---------|----------|
-| Admin | admin | 1234      |
-| user  | shihab| 1234      |
+|------|-------|-----------|
+| Admin| admin | admin123  |
+| user | shihab| 1234      |
 
 ## 📄 License
 
